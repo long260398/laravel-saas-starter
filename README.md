@@ -3,7 +3,7 @@
 > Production-ready Laravel 11 boilerplate — Auth, Roles, Stripe & Docker included.
 > Skip 2-3 days of setup. Start building your product on day one.
 
-**[Get the full source code on Gumroad →](https://longnguyen77.gumroad.com)**
+**[Get the full source code on Gumroad →](https://longnguyen77.gumroad.com/l/laravel-saas-starter)**
 
 ---
 
@@ -182,7 +182,7 @@ Tests: 5 passed — Assertions: 14
 
 ## Get the full source code
 
-**[Download on Gumroad — $29](https://longnguyen77.gumroad.com)**
+**[Download on Gumroad — $29](https://longnguyen77.gumroad.com/l/laravel-saas-starter)**
 
 Includes: full source code, README, .env.example, Docker setup, CI config, and free updates.
 
